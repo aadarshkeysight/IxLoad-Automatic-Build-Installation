@@ -1,0 +1,9 @@
+requests
+pyyaml
+
+
+priority to kolkata then shift to any other 
+entry point for local path of install / uninstall
+Logging the processes currently executing
+
+

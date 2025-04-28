@@ -1,0 +1,6 @@
+agent:
+  ip: "192.168.1.100"
+  port: 5000
+
+cm_api:
+  url: "http://uscal-cm-vmops1.lbj.is.keysight.com/cgi-bin/findbuildv2.py"
